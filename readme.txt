@@ -1,0 +1,1 @@
+Proyecto Diagnóstico de Neumocononiosis con Deep Learning Siguiendo la metodología OIT
